@@ -13,3 +13,18 @@
 [submodule "sys09"]
 	path = sys09
 	url = git@github.com:jenyu7/sys09.git
+[submodule "sys06"]
+	path = sys06
+	url = git@github.com:jenyu7/sys06.git
+[submodule "sys05"]
+	path = sys05
+	url = git@github.com:jenyu7/stunning-bassoon.git
+[submodule "sys04"]
+	path = sys04
+	url = git@github.com:jenyu7/sys04.git
+[submodule "sys03"]
+	path = sys03
+	url = git@github.com:jenyu7/sys03.git
+[submodule "sys02"]
+	path = sys02
+	url = git@github.com:jenyu7/EulerProblems.git
