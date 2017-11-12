@@ -1,0 +1,6 @@
+[submodule "sys11"]
+	path = sys11
+	url = git@github.com:jenyu7/sys11.git
+[submodule "sys10"]
+	path = sys10
+	url = git@github.com:jenyu7/sys10.git
