@@ -4,3 +4,12 @@
 [submodule "sys10"]
 	path = sys10
 	url = git@github.com:jenyu7/sys10.git
+[submodule "sys08"]
+	path = sys08
+	url = git@github.com:jenyu7/sys08.git
+[submodule "sys07"]
+	path = sys07
+	url = git@github.com:jenyu7/sys07.git
+[submodule "sys09"]
+	path = sys09
+	url = git@github.com:jenyu7/sys09.git
