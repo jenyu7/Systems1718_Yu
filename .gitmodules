@@ -28,3 +28,6 @@
 [submodule "sys02"]
 	path = sys02
 	url = git@github.com:jenyu7/EulerProblems.git
+[submodule "sys12"]
+	path = sys12
+	url = git@github.com:jenyu7/sys12.git
