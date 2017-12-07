@@ -37,3 +37,6 @@
 [submodule "project01"]
 	path = project01
 	url = git@github.com:jenyu7/she_sells_seaSHELLs_by_the_seashore.git
+[submodule "sys14"]
+	path = sys14
+	url = git@github.com:jenyu7/sys14.git
