@@ -43,3 +43,6 @@
 [submodule "sys15"]
 	path = sys15
 	url = git@github.com:BrianLim167/mks65w15.git
+[submodule "sys16"]
+	path = sys16
+	url = git@github.com:jenyu7/sys16.git
