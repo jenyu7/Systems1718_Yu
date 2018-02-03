@@ -52,3 +52,6 @@
 [submodule "project02"]
 	path = project02
 	url = git@github.com:jenyu7/implosion.git
+[submodule "graphics01"]
+	path = graphics01
+	url = git@github.com:jenyu7/graphics01.git
