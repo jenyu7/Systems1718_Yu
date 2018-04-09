@@ -64,3 +64,6 @@
 [submodule "graphics04"]
 	path = graphics04
 	url = git@github.com:jenyu7/graphics04.git
+[submodule "graphics05"]
+	path = graphics05
+	url = git@github.com:jenyu7/graphics05.git
